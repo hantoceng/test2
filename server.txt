@@ -1,5 +1,11 @@
 dev branch, create file server.txt
 
+
 new line, from master
 
 another line from master
+
+add new line from dev
+
+add another line from dev
+
